@@ -1,5 +1,5 @@
 # 👩‍💻 Alexandra Baron  
-**Engineering Student | Computer Science & Microelectronics | Future Innovator**
+**Engineering Student | Computer Science & Microelectronics**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/alexandra-baron)  
 📧 alexandra.brn3@gmail.com  
