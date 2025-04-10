@@ -12,7 +12,7 @@ I am a passionate engineering student at **École Nationale Supérieure des Mine
 ---
 
 ## Technical Skills  
-- **Programming:** C/C++, Python, TensorFlow, NumPy, SQL, SQL, R, Shell Scripting  
+- **Programming:** C/C++, Python, TensorFlow, NumPy, SQL, R, Shell Scripting  
 - **Hardware & Microelectronics:** System Verilog, STM32CubeIDE  
 - **AI & Data Science:** Deep Learning (MLP, CNN, RNN, SLL), Problem-Solving  
 
