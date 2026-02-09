@@ -1,5 +1,5 @@
 # 👩‍💻 Alexandra Baron  
-**Engineering Student | Computer Science & Microelectronics**
+**Engineering Student @ MINES ST ETIENNE & Business Student @ EM LYON BUSINESS SCHOOL | Computer Science & Microelectronics**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/alexandra-baron)  
 📧 alexandra.brn3@gmail.com  
